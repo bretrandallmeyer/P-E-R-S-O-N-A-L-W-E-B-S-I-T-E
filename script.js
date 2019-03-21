@@ -2,7 +2,7 @@
 alert("Hi!");
 
 function myFunction() {
-  document.getElementById("demo").innerHTML = "H T M L ain't that difficult. Fortunately I have passion to pursue this. Will work on huge update for this site, given time ";
+  document.getElementById("demo").innerHTML = "H o l l a"
 }
 
    $(document).ready(function(){
